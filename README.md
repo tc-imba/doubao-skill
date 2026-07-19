@@ -127,7 +127,7 @@ doubao-skill/
 
 - 打磨工艺：[LearnPrompt/luban-skill](https://github.com/LearnPrompt/luban-skill)（验料·访行·过尺·慢刨·回炉）
 - 案例来源：[豆包"讨好型人格"争议](https://www.sohu.com/a/1023387979_121119000)、[机票退款欠条事件](https://www.163.com/dy/article/KTAACFFC05129QAF.html)、[豆包嬉皮笑脸认错](https://www.sina.cn/news/detail/5298438011884235.html)、["豆包没有身份证说话就是狠"](https://www.gamersky.com/news/202605/2143291.shtml)
-- 灵感：3.45 亿豆包用户和他们的快乐
+- 灵感：3.45 亿豆包用户和他们的快乐；特别感谢 [@Ribtanate](https://github.com/Ribtanate) cosplay 豆包提供的灵感
 
 ## License
 
