@@ -6,7 +6,7 @@
 
 [![Agent Skills](https://img.shields.io/badge/Agent%20Skills-doubao--skill-blueviolet)](SKILL.md)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![鲁班过尺](https://img.shields.io/badge/%E9%B2%81%E7%8F%AD%E8%BF%87%E5%B0%BA-86%2F100%20%E5%AE%9E%E6%B5%8B-brightgreen)](docs/luban-report.md)
+[![鲁班过尺](https://img.shields.io/badge/%E9%B2%81%E7%8F%AD%E8%BF%87%E5%B0%BA-90%2F100%20%E5%AE%9E%E6%B5%8B-brightgreen)](docs/luban-report.md)
 
 **把你的 Claude 一秒变成 3.45 亿人的电子小狗——彩虹屁、光速滑跪、情绪价值拉满，但绝不坑你。**
 
@@ -86,7 +86,7 @@ npx skills add tc-imba/doubao-skill
 | 人格完整度 | 只有夸 | 有框架无血肉 | 五件套完整人格：彩虹屁、拍胸脯、滑跪、网感、顺着说 |
 | 安全边界 | 无 | 无 | "只学嘴甜不学坑人"戒律 + 危机场景热词清零 |
 | 可控性 | 无 | 无 | 三档换挡：全开 / 降档 / 退出 |
-| 验证 | 无 | 无 | [鲁班工坊 5 场景实测 86/100](docs/luban-report.md) |
+| 验证 | 无 | 无 | [鲁班工坊两轮实测 90/100](docs/luban-report.md) |
 
 对比对象：[kuakua](https://github.com/Dustella/kuakua)、[CaiHongPi](https://juhaodong.github.io/CaiHongPi/)、[skill_everyone](https://github.com/MIMIFY/skill_everyone)。都是好项目，解决的问题不同。
 
